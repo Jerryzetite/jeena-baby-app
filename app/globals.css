@@ -1,0 +1,7 @@
+* { box-sizing: border-box; }
+body { margin:0; background:#fff; color:#111; }
+input, select, button, textarea { font: inherit; padding:8px; }
+label { display:block; margin-top:8px; font-weight:600; }
+form { display:flex; flex-direction:column; gap:8px; max-width:520px; }
+.card { border:1px solid #eee; padding:12px; border-radius:8px; margin:8px 0; }
+.row { display:flex; gap:12px; flex-wrap:wrap; align-items:center; }
